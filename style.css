@@ -1,0 +1,25 @@
+p {
+	font-family: cursive;
+	color: red;
+	font-size: 16pt;
+font-weight: bold;
+
+}
+
+h1 {
+	font-family: fantasy;
+	color: black;
+}
+
+body 
+{
+	background-color: #F7F412;
+	margin: 0 auto;
+	max-width: 50em;
+}
+
+li
+{
+	font-family: fantasy;
+	color: red;
+}
